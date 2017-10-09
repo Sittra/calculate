@@ -1,2 +1,2 @@
-# calculate
-imitate wolfram
+# calculae
+maybe just imitate wolfram
